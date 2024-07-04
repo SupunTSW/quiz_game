@@ -1,3 +1,6 @@
+
+Print("This is the quiz game, play now!")
+
 print("Welcome to my computer quiz!")
 playing = input("do you want to play? ")
 
